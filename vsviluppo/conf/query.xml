@@ -1,0 +1,8 @@
+<QueryList>
+ <Mysql>
+  <Query1 Costant="Add_Attribute">
+   Alter table $$$ add column pippo char;
+  </Query1>
+ 
+ </Mysql>
+</QueryList>

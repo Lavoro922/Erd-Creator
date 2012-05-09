@@ -1,0 +1,17 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\QTable.o
+./release\database.o
+./release\sqlconnection.o
+./release\dconnection.o
+./release\sconnection.o
+./release\connection.o
+./release\qcquerylist.o
+./release\edittext.o
+./release\projectdata.o
+./release\moc_mainwindow.o
+./release\moc_QTable.o
+./release\moc_database.o
+./release\moc_sqlconnection.o
+);

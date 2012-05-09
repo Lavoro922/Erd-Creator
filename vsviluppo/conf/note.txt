@@ -1,0 +1,13 @@
+aggiungi un attributo.
+eliminare un attributo.
+creare/eliminare chiave esterne, chiavi primarie ,chiave index.
+eliminazione tabella.
+diventa un campo autoincrementale.
+Lista tabelle.
+Lista attributi di una tabella.
+Modifica /aggiungi Valore di Default su un attributo.
+Cambiare il tipo di un attributo.
+Cambiare il nome di un attributo.
+Cambiare il nome di una tabella.
+
+

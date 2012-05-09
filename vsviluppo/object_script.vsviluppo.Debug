@@ -1,0 +1,17 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\QTable.o
+./debug\database.o
+./debug\sqlconnection.o
+./debug\dconnection.o
+./debug\sconnection.o
+./debug\connection.o
+./debug\qcquerylist.o
+./debug\edittext.o
+./debug\projectdata.o
+./debug\moc_mainwindow.o
+./debug\moc_QTable.o
+./debug\moc_database.o
+./debug\moc_sqlconnection.o
+);
